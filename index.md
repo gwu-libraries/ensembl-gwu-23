@@ -291,15 +291,12 @@ To register, please fill out and submit the registration form:
 
 <h2 id="sponsors">Sponsors</h2>
  <div class="row">
-       <div class="col-4">
+
     <img src="assets/img/e_ensembl.png" alt="E-Ensembl" width="200px">
-       </div>
-             <div class="col-4">
+&nbsp;
     <img src="assets/img/gw_primary_2c_0.png" alt="GWU"  width="180px">
-                      </div>
-                   <div class="col-4">
+&nbsp;
     <img src="assets/img/embl-ebi.png" alt="EMBL-EBI"  width="200px">
-                            </div>
   </div>
 </div> 
 
