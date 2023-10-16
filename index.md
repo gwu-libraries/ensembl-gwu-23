@@ -266,18 +266,7 @@ The workshop will be delivered by Louisse Paola Mirabueno, who completed her Bac
 <li>View functional elements involved in gene regulation and their activity in different cell types.</li>
 <li>Export gene data in bulk using BioMart.</li></ul>
 
-<h2 id="sponsors">Sponsors</h2>
- <div class="row">
-  <div class="column">
-    <img src="img/e_ensembl.png" alt="E-Ensembl" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img/gw_primary_2c_0.png" alt="GWU" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img/embl-ebi.png" alt="EMBL-EBI" style="width:100%">
-  </div>
-</div> 
+
 
 {% comment%}
 REGISTRATION
@@ -300,6 +289,18 @@ To register, please fill out and submit the registration form:
 
 <hr/>
 
+<h2 id="sponsors">Sponsors</h2>
+ <div class="row">
+  <div class="column">
+    <img src="assets/img/e_ensembl.png" alt="E-Ensembl" >
+  </div>
+  <div class="column">
+    <img src="assets/img/gw_primary_2c_0.png" alt="GWU" >
+  </div>
+  <div class="column">
+    <img src="assets/img/embl-ebi.png" alt="EMBL-EBI" >
+  </div>
+</div> 
 
 
 {% comment %}
