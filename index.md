@@ -297,7 +297,6 @@ To register, please fill out and submit the registration form:
     <img src="assets/img/gw_primary_2c_0.png" alt="GWU"  width="180px">
 &nbsp;
     <img src="assets/img/embl-ebi.png" alt="EMBL-EBI"  width="200px">
-  </div>
 </div> 
 
 
