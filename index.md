@@ -245,6 +245,31 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h2 id="about-ensembl">About Ensembl</h2>
+
+<p>
+<a href="http://www.ensembl.org">Ensembl</a> provides an interface and an infrastructure for accessing genomic information, including genes, variants, comparative genomics and gene regulation data, covering over 300 vertebrate species. Its sister project, <a href="http://www.ensemblgenomes.org">Ensembl Genomes</a>, consists of five sub-portals (bacteria, fungi, protists, plants, and invertebrate metazoa) which contain data for over 2,000 eukaryotic (including wheat, barley, tomato and brassicas) and over 30,000 prokaryotic genomes.
+</p>
+
+<h2 id="ensembl-outreach">Ensembl Outreach</h2>
+
+<p>
+The workshop will be delivered by Louisse Paola Mirabueno, who completed her Bachelor's degree in Genetics and Cell Biology at Dublin City University, and graduated with an MPhil. at the University of Reading. Louisse joined the Ensembl Outreach team in January 2022. The Ensembl Outreach team and Ensembl are part of the <a href="https://www.ebi.ac.uk/">European Bioinformatics Institute (EMBL-EBI)</a>, who provide open-access resources and training to researchers around the globe.
+</p>
+
+<h2 id="learning-objectives">Learning Objectives</h2>
+<ul>
+<li>Navigate Ensembl using the web browser platform.
+<li>Access main data types in Ensembl: genomes, genes, genetic variation, regulatory features and comparative genomics
+<li>View genomic regions and manipulate the view to add features.
+<li>Explore information about genes and their sequences.
+<li>Analyze genomic variants and associated phenotypes and your own variation data using the Variant Effect Predictor (VEP).
+<li>View homologous genes and genomic regions.
+<li>View functional elements involved in gene regulation and their activity in different cell types.
+<li>Export gene data in bulk using BioMart.
+</ul>
+
+
 {% comment%}
 REGISTRATION
 {% endcomment %}
