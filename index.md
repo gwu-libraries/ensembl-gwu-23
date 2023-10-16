@@ -265,7 +265,6 @@ The workshop will be delivered by Louisse Paola Mirabueno, who completed her Bac
 <li>View homologous genes and genomic regions.
 <li>View functional elements involved in gene regulation and their activity in different cell types.
 <li>Export gene data in bulk using BioMart.
-</ul>
 
 
 {% comment%}
