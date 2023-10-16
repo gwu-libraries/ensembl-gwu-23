@@ -257,14 +257,14 @@ The workshop will be delivered by Louisse Paola Mirabueno, who completed her Bac
 
 <h2 id="learning-objectives">Learning Objectives</h2>
 <ul>
-<li>Navigate Ensembl using the web browser platform.
-<li>Access main data types in Ensembl: genomes, genes, genetic variation, regulatory features and comparative genomics
-<li>View genomic regions and manipulate the view to add features.
-<li>Explore information about genes and their sequences.
-<li>Analyze genomic variants and associated phenotypes and your own variation data using the Variant Effect Predictor (VEP).
-<li>View homologous genes and genomic regions.
-<li>View functional elements involved in gene regulation and their activity in different cell types.
-<li>Export gene data in bulk using BioMart.
+<li>Navigate Ensembl using the web browser platform.</li>
+<li>Access main data types in Ensembl: genomes, genes, genetic variation, regulatory features and comparative genomics</li>
+<li>View genomic regions and manipulate the view to add features.</li>
+<li>Explore information about genes and their sequences.</li>
+<li>Analyze genomic variants and associated phenotypes and your own variation data using the Variant Effect Predictor (VEP).</li>
+<li>View homologous genes and genomic regions.</li>
+<li>View functional elements involved in gene regulation and their activity in different cell types.</li>
+<li>Export gene data in bulk using BioMart.</li></ul>
 
 
 {% comment%}
